@@ -12,6 +12,11 @@ Install dolphin-phi
 ollama run dolphin-phi
 ```
 
+Clone repo
+```shell
+git clone https://github.com/KennethChilds/yphinance
+```
+
 Install dependencies
 
 ```shell
