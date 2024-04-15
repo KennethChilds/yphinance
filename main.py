@@ -13,6 +13,6 @@ stream = ollama.chat(
                what is the general trend of the price?"""}],
     stream=True,
 )
-
+print(data)
 for chunk in stream:
   print(chunk['message']['content'], end='', flush=True)
