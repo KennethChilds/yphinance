@@ -5,7 +5,7 @@ efficient LLM's in combination with yfinance's api.</br>
 
 ## Installing / Getting started
 
-Make sure you have [ollama](ollama.com) installed onto your system.</br>
+Make sure you have [Ollama](ollama.com) installed onto your system.</br>
 
 Install dolphin-phi
  ```shell
