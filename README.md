@@ -29,7 +29,7 @@ To use another LLM, run
 ```shell
 ollama run <LLM_HERE>
 ```
-the ```main.py``` file to use your LLM of choice.
+edit the ```main.py``` file to use your LLM of choice.
 
 ```python
 stream = ollama.chat(
