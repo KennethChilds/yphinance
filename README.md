@@ -13,7 +13,7 @@ messages=[{'role': 'user', 'content': f"""
                of the stock, and is it a 
                good buy?
                
-               give absolute advice, give objectiv
+               give absolute advice, give objective
                answers. there is a correct answer
                give it."""}],
 ```
